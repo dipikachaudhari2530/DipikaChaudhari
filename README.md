@@ -3,7 +3,7 @@
 
 💻 Full Stack Developer  
 🌱 Currently learning  Full Stack Developer 
-📫 Contact: dipikachaudhari2530@example.com  
+📫 Contact: dipikachaudhari2530@gmail.com  
 🔗 Portfolio: [My Live Projects](https://ubiquitous-creponne-cf19b7.netlify.app)
 
 ---
